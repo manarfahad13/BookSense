@@ -1,0 +1,300 @@
+book(1, 'Ilderim: a Syrian Tale, in four cantos. [By H. G. Knight.]', 'H. G. Knight', 'tale', 'Prose').
+book(2, 'The Arab: a tale. In three Cantos.', 'Edgar Allan Poe', 'tale', 'Prose').
+ 
+book(3, '[A Tale of Mystery ... Second edition, with etchings after designs by Tresham.]', 'Holcroft, Thomas, 1745-1809', 'tale', 'Prose').
+book(7, 'Love in Excess; or the fatal enquiry, a novel. (Part the first.)', 'George Eliot', 'novel', 'Prose').
+book(8, 'An enquiry into the origin of the authorship of some of the earlier Waverley Novels.', 'Gilbert J. French', 'novel', 'Prose').
+book(16, 'The Lay of the Purple Falcon; a metrical romance, now first printed from the original manuscript, in the possession of the Hon. Robert Curzon.', 'Charles Dickens', 'romance', 'Prose').
+book(17, 'The Vintagers; a musical romance, in two acts, [and in prose].', 'Edmund John Eyre', 'romance', 'Prose').
+book(21, 'The Tribe of Issachar; or, the Ass Couchant. A poem. [A satire on the Jacobites.]', 'Jane Austen', 'satire', 'Prose').
+book(22, 'Juvenal\'s tenth and thirteenth Satires, translated by E. L. Swift.', 'Decimus Junius Juvenalis', 'satire', 'Prose').
+book(31, 'Ilderim: a Syrian Tale, in four cantos. [By H. G. Knight.]', 'H. G. Knight', 'tale', 'Prose').
+book(32, 'The Arab: a tale. In three Cantos.', 'Emily Bront ', 'tale', 'Prose').
+book(36, 'Songs for Christmas and the New Year, by Lucy A. Bennett, Rev. Richard Wilton [and others], etc. [electronic resource]', 'Walt Whitman', 'song', 'Music').
+book(37, 'Book of Word & Music of Humorous Songs, Burlesque Sketches, & Recitals. [With a portrait.] [electronic resource]', 'Walter Curtis', 'song', 'Music').
+book(41, 'The Wandering Melodist: or, The Rose, the thistle, and the Shamrock: consisting of fifteen songs, sung by Mr. I., etc. [electronic resource]', 'Benjamin Charles Incledon', 'melody', 'Music').
+book(42, 'The Magpie; or, the Maid of Palaiseau. A melodramatic romance. In three acts ... Second edition. [An adaptation of La Pie voleuse, by L. C. Caigniez and J. M. T. Baudouin d\'Aubigny.] [electronic resource]', 'Richard Wagner', 'melody', 'Music').
+book(51, '[Poems on several occasions. [With a prefatory letter by Hannah More.]] [electronic resource]', 'Ann Yearsley', 'poet', 'Poetry').
+book(52, 'A Satyr against Vertue. (A poem: supposed to be spoken by a Town-Hector. [By John Oldham. The preface signed: T. A.]). [electronic resource]', 'T. A.', 'poet', 'Poetry').
+book(61, 'Julian and Agnes; or, the Monks of the Great St. Bernard. A tragedy, in five acts [and in verse]. [electronic resource]', 'William Sotheby', 'tragedy', 'Drama').
+book(62, 'The Slave; or, Memoirs of Archy Moore. [A novel. By R. C. Dallas.]', 'Robert Charles Dallas', 'novel', 'Prose').
+book(68, 'Pride and Prejudice', 'Jane Austen', 'novel', 'Romance').
+book(69, 'Sense and Sensibility', 'Jane Austen', 'novel', 'Romance').
+book(70, 'Emma', 'Jane Austen', 'novel', 'Comedy of Manners').
+ 
+% More Books by H. G. Knight
+book(101, 'The Enchanted Forest: a Romantic Tale. [By H. G. Knight.]', 'H. G. Knight', 'romantic tale', 'Prose').
+book(102, 'Whispers of the Heart: Poetic Musings. [By H. G. Knight.]', 'H. G. Knight', 'poetry', 'Poetry').
+ 
+% More Books by Edgar Allan Poe
+book(201, 'The Raven and Other Poems', 'Edgar Allan Poe', 'poetry', 'Poetry').
+book(202, 'The Fall of the House of Usher and Other Tales', 'Edgar Allan Poe', 'short stories', 'Prose').
+ 
+% More Books by Charles Dickens
+book(301, 'Great Expectations', 'Charles Dickens', 'novel', 'Romance').
+book(302, 'A Tale of Two Cities', 'Charles Dickens', 'historical novel', 'Prose').
+ 
+% More Books by Jane Austen
+book(401, 'Persuasion', 'Jane Austen', 'novel', 'Romance').
+book(402, 'Northanger Abbey', 'Jane Austen', 'novel', 'Gothic fiction').
+ 
+% More Books by Walt Whitman
+book(501, 'Leaves of Grass', 'Walt Whitman', 'poetry', 'Poetry').
+book(502, 'Drum-Taps', 'Walt Whitman', 'poetry', 'Poetry').
+ 
+% More Books by Robert Charles Dallas
+book(601, 'Percy, a Tragedy, in Five Acts', 'Robert Charles Dallas', 'tragedy', 'Drama').
+book(602, 'The Stranger: A Drama', 'Robert Charles Dallas', 'drama', 'Drama').
+ 
+% More Poetry Tragedy Books
+book(701, 'Elegy Written in a Country Churchyard', 'Thomas Gray', 'poetry tragedy', 'Poetry').
+book(702, 'The Bridge', 'Hart Crane', 'poetry tragedy', 'Poetry').
+book(703, 'The Waste Land', 'T.S. Eliot', 'poetry tragedy', 'Poetry').
+book(704, 'Ariel', 'Sylvia Plath', 'poetry tragedy', 'Poetry').
+book(705, 'The Raven', 'Edgar Allan Poe', 'poetry tragedy', 'Poetry').
+ 
+% More Poetry Tragedy Books by William Sotheby
+book(801, 'Saul: A Poem, in Two Parts', 'William Sotheby', 'poetry tragedy', 'Poetry').
+book(802, 'The Battle of the Nile: A Poem, in Heroic Verse', 'William Sotheby', 'poetry tragedy', 'Poetry').
+book(803, 'The Death of Darnley: A Tragedy', 'William Sotheby', 'poetry tragedy', 'Drama').
+ 
+% More Poetry Books with Play Subcategory
+book(901, 'Hamlet', 'William Shakespeare', 'play', 'Drama').
+book(902, 'Macbeth', 'William Shakespeare', 'play', 'Drama').
+book(903, 'Faust', 'Johann Wolfgang von Goethe', 'play', 'Poetry').
+ 
+% More Poetry Books with Comedy Subcategory
+book(911, 'As You Like It', 'William Shakespeare', 'comedy', 'Drama').
+book(912, 'Twelfth Night', 'William Shakespeare', 'comedy', 'Drama').
+book(913, 'The Importance of Being Earnest', 'Oscar Wilde', 'comedy', 'Prose').
+ 
+% More Poetry Books with Recitation Subcategory
+book(921, 'The Raven', 'Edgar Allan Poe', 'recitation', 'Poetry').
+book(922, 'Ode to a Nightingale', 'John Keats', 'recitation', 'Poetry').
+book(923, 'The Love Song of J. Alfred Prufrock', 'T.S. Eliot', 'recitation', 'Poetry').
+ 
+% More Poetry Books with Play Subcategory by Johann Wolfgang von Goethe
+book(931, 'Egmont', 'Johann Wolfgang von Goethe', 'play', 'Drama').
+book(932, 'Torquato Tasso', 'Johann Wolfgang von Goethe', 'play', 'Drama').
+ 
+% More Poetry Books with Comedy Subcategory by Oscar Wilde
+book(941, 'The Ballad of Reading Gaol', 'Oscar Wilde', 'comedy', 'Poetry').
+book(942, 'The Canterville Ghost', 'Oscar Wilde', 'comedy', 'Prose').
+ 
+% More Poetry Books with Recitation Subcategory
+book(951, 'Annabel Lee', 'Edgar Allan Poe', 'recitation', 'Poetry').
+book(952, 'Ode to a Grecian Urn', 'John Keats', 'recitation', 'Poetry').
+book(953, 'The Hollow Men', 'T.S. Eliot', 'recitation', 'Poetry').
+ 
+% More Poetry Tragedy Books by William Sotheby
+book(801, 'Saul: A Poem, in Two Parts', 'William Sotheby', 'poetry tragedy', 'Poetry').
+book(802, 'The Battle of the Nile: A Poem, in Heroic Verse', 'William Sotheby', 'poetry tragedy', 'Poetry').
+book(803, 'The Death of Darnley: A Tragedy', 'William Sotheby', 'poetry tragedy', 'Drama').
+book(804, 'Prometheus Unbound', 'William Sotheby', 'poetry tragedy', 'Poetry').
+book(805, 'The Sorrows of Young Werther', 'William Sotheby', 'poetry tragedy', 'Prose').
+ 
+% More Books for Various Authors
+ 
+% Additional Books by Emily Bront
+book(1201, 'Wuthering Heights', 'Emily Bront ', 'novel', 'Romance').
+book(1202, 'Poems by Currer, Ellis, and Acton Bell', 'Emily Bront ', 'poetry', 'Poetry').
+ 
+% Additional Books by Edgar Allan Poe
+book(1203, 'The Tell-Tale Heart and Other Stories', 'Edgar Allan Poe', 'short stories', 'Prose').
+book(1204, 'Eureka: A Prose Poem', 'Edgar Allan Poe', 'essay', 'Prose').
+ 
+% Additional Books by Jane Austen
+book(1205, 'Mansfield Park', 'Jane Austen', 'novel', 'Romance').
+book(1206, 'Lady Susan', 'Jane Austen', 'novel', 'Romance').
+ 
+% Additional Books by Charles Dickens
+book(1207, 'Oliver Twist', 'Charles Dickens', 'novel', 'Social novel').
+book(1208, 'A Christmas Carol', 'Charles Dickens', 'novel', 'Ghost story').
+ 
+% Additional Books by William Shakespeare
+book(1209, 'Romeo and Juliet', 'William Shakespeare', 'play', 'Tragedy').
+book(1210, 'A Midsummer Night\'s Dream', 'William Shakespeare', 'play', 'Comedy').
+ 
+% Additional Books by Oscar Wilde
+book(1211, 'The Picture of Dorian Gray', 'Oscar Wilde', 'novel', 'Philosophical fiction').
+book(1212, 'De Profundis', 'Oscar Wilde', 'letter', 'Prose').
+ 
+ 
+% Additional Books for Poetry - Tragedy
+ 
+% More Tragedy Poetry Books by William Sotheby
+book(1301, 'The Death of Mary, Queen of Scots: A Tragedy', 'William Sotheby', 'poetry tragedy', 'Tragedy').
+book(1302, 'Elegy on the Revolution of France', 'William Sotheby', 'poetry tragedy', 'Tragedy').
+ 
+% More Tragedy Poetry Books by Thomas Gray
+book(1303, 'Ode on the Spring', 'Thomas Gray', 'poetry tragedy', 'Tragedy').
+book(1304, 'Ode on a Distant Prospect of Eton College', 'Thomas Gray', 'poetry tragedy', 'Tragedy').
+ 
+% More Tragedy Poetry Books by Hart Crane
+book(1305, 'The Broken Tower', 'Hart Crane', 'poetry tragedy', 'Tragedy').
+book(1306, 'Voyages', 'Hart Crane', 'poetry tragedy', 'Tragedy').
+ 
+% Additional Books for Poetry - Recitation
+ 
+% More Recitation Poetry Books by John Keats
+book(1401, 'To Autumn', 'John Keats', 'recitation', 'Poetry').
+book(1402, 'La Belle Dame sans Merci', 'John Keats', 'recitation', 'Poetry').
+ 
+% More Recitation Poetry Books by T.S. Eliot
+book(1403, 'The Love Song of J. Alfred Prufrock', 'T.S. Eliot', 'recitation', 'Poetry').
+book(1404, 'The Hollow Men', 'T.S. Eliot', 'recitation', 'Poetry').
+ 
+% More Recitation Poetry Books by Sylvia Plath
+book(1405, 'Lady Lazarus', 'Sylvia Plath', 'recitation', 'Poetry').
+book(1406, 'Ariel', 'Sylvia Plath', 'recitation', 'Poetry').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ask_genre(Genre) :-
+   writeln('Please choose a genre:'),
+   writeln('1. Prose'),
+   writeln('2. Music'),
+   writeln('3. Poetry'),
+   read(Choice),
+   (Choice == 1 ->
+       Genre = 'Prose';
+   Choice == 2 ->
+       Genre = 'Music';
+   Choice == 3 ->
+       Genre = 'Poetry').
+ 
+% Rule for displaying subcategories based on chosen genre and getting user's choice
+ask_subcategory('Prose', Subcategory) :-
+   writeln('Please choose a subcategory for Prose:'),
+   writeln('1. Tale'),
+   writeln('2. Novel'),
+   writeln('3. Parody'),
+   writeln('4. Romance'),
+   writeln('5. Story'),
+   writeln('6. Satire'),
+   read(Choice),
+   (Choice == 1 ->
+       Subcategory = 'tale';
+   Choice == 2 ->
+       Subcategory = 'novel';
+   Choice == 3 ->
+       Subcategory = 'parody';
+   Choice == 4 ->
+       Subcategory = 'romance';
+   Choice == 5 ->
+       Subcategory = 'story';
+   Choice == 6 ->
+       Subcategory = 'satire').
+ 
+ask_subcategory('Music', Subcategory) :-
+   writeln('Please choose a subcategory for Music:'),
+   writeln('1. Song'),
+   writeln('2. Melody'),
+   writeln('3. Opera'),
+   read(Choice),
+   (Choice == 1 ->
+       Subcategory = 'song';
+   Choice == 2 ->
+       Subcategory = 'melody';
+   Choice == 3 ->
+       Subcategory = 'opera').
+ 
+ 
+ask_subcategory('Poetry', Subcategory) :-
+   writeln('Please choose a subcategory for Poetry:'),
+   writeln('1. Tragedy'),
+   writeln('2. Recitation'),
+   read(Choice),
+   (Choice == 1 ->
+       Subcategory = 'tragedy';
+   Choice == 2 ->
+       Subcategory = 'recitation').
+ 
+ 
+% Rule to remove duplicates from a list
+remove_duplicates([], []).
+remove_duplicates([X|Xs], Ys) :-
+   member(X, Xs),
+   !,
+   remove_duplicates(Xs, Ys).
+remove_duplicates([X|Xs], [X|Ys]) :-
+   remove_duplicates(Xs, Ys).
+ 
+% Rule to display authors' names as a numerical list without duplicates
+display_authors(Authors) :-
+   remove_duplicates(Authors, UniqueAuthors),
+   length(UniqueAuthors, Length),
+   writeln('Authors with the selected subcategory:'),
+   display_authors(UniqueAuthors, 1, Length).
+ 
+display_authors([], _, _).
+display_authors([Author|Rest], Index, Length) :-
+   format('~w. ~w~n', [Index, Author]),
+   NextIndex is Index + 1,
+   display_authors(Rest, NextIndex, Length).
+ 
+% Updated rule to get authors based on the chosen subcategory
+get_authors(Subcategory, Authors) :-
+   findall(Author, book(_, _, Author, Subcategory, _), Authors).
+ 
+% Rule to get books by the selected author
+get_books_by_author(Author, Books) :-
+   findall(Title, book(_, Title, Author, _, _), Books).
+ 
+% Rule to display books by the selected author
+display_books(Books) :-
+   writeln('Books by the selected author:'),
+   display_books(Books, 1).
+ 
+display_books([], _).
+display_books([Book|Rest], Index) :-
+   format('~w. ~w~n', [Index, Book]),
+   NextIndex is Index + 1,
+   display_books(Rest, NextIndex).
+ 
+% Rule to randomly select a book from the given list
+random_book(Books, SelectedBook) :-
+   length(Books, Length),
+   random(0, Length, Index),
+   nth0(Index, Books, SelectedBook).
+% Rule to start the book recommendation system
+book_recommendation_system :-
+   writeln('*** Welcome to Book Sense Recommendation System ****'),
+   repeat,
+   writeln('Do you have specific preferences? (y/n)'),
+   read(Preference),
+   (Preference == 'y' ->
+       ask_genre(Genre),
+       ask_subcategory(Genre, Subcategory),
+       get_authors(Subcategory, Authors),
+       display_authors(Authors),
+       writeln('Please enter the number corresponding to the author:'),
+       read(AuthorChoice),
+       nth1(AuthorChoice, Authors, SelectedAuthor),
+       get_books_by_author(SelectedAuthor, Books),
+       display_books(Books),
+       writeln('Do you want a recommendation from the system? (y/n)'),
+       read(RecommendationChoice),
+       (RecommendationChoice == 'y' ->
+           random_book(Books, SelectedBook),
+           format('Recommended book: ~w by ~w~n', [SelectedBook, SelectedAuthor])
+       ; true),
+       writeln('Do you want to continue? (y/n)'),
+       read(ContinueChoice),
+       (ContinueChoice \== 'y' -> !, writeln('Thank you for using Book Sense Recommendation System. Goodbye!'));
+   % If the user has no specific preferences
+   writeln('Randomly recommending a book:'),
+   get_authors(_, AllAuthors),
+   random_member(SelectedAuthor, AllAuthors),
+   get_books_by_author(SelectedAuthor, Books),
+   (Books \== [] ->
+       random_book(Books, SelectedBook),
+       format('Recommended book: ~w by ~w~n', [SelectedBook, SelectedAuthor])
+   ; writeln('No books available for recommendation')),
+   writeln('Do you want to continue? (y/n)'),
+   read(ContinueChoice),
+   (ContinueChoice \== 'y' -> !, writeln('Thank you for using Book Sense Recommendation System. Goodbye!'))).
