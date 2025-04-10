@@ -41,7 +41,6 @@ Start output:
 ![image](https://github.com/user-attachments/assets/7eb3528a-cae8-48ba-9d66-e9fadfdcbeba)
 
 Test :
-The testing of the recommendation system was conducted, and the results are presented below : 
 
 Test 1: 
 
