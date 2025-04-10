@@ -37,20 +37,27 @@ Figure shows the rules to get authors based on the chosen subcategory and get bo
 
 # Testing and Evaluation
 Start output: 
+
 ![image](https://github.com/user-attachments/assets/7eb3528a-cae8-48ba-9d66-e9fadfdcbeba)
 
 Test :
 The testing of the recommendation system was conducted, and the results are presented below : 
+
 Test 1: 
 ![image](https://github.com/user-attachments/assets/53321a07-8096-41d3-a7e0-ad055705735d)
+
 Test 2:
 ![image](https://github.com/user-attachments/assets/2d428018-13f2-4fc2-bfd4-99eaebdbcc13)
+
 Test 3:
 ![image](https://github.com/user-attachments/assets/bd84bb92-68ec-4b91-84e0-2c840475620a)
+
 Test 4:
 ![image](https://github.com/user-attachments/assets/f4799d5b-edfd-4f98-bb95-e8aa62bc2ad0)
+
 Test 5:
 ![image](https://github.com/user-attachments/assets/dc73879e-8a8b-4cc2-8a1c-ac6246849e30)
+
 Test 6:
 ![image](https://github.com/user-attachments/assets/2fd994d0-3eba-4a9c-a401-218347bf467c)
 
