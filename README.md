@@ -26,7 +26,8 @@ the figure shows the ask genre rule for displaying genres and getting user's cho
 
 # Author Rules
 Figure shows authors rule to display authors' names as a numerical list without duplicates.
-![image](https://github.com/user-attachments/assets/be54ce46-175f-451e-b1fc-5eba78535190
+![image](https://github.com/user-attachments/assets/38b435b1-f784-4660-a4c4-0faf09ecf7f7)
+
 
 Figure shows the rules to get authors based on the chosen subcategory and get books by the selected author
 ![image](https://github.com/user-attachments/assets/07cf001d-e7ce-45a8-80e7-616d2cf5065f)
@@ -39,11 +40,18 @@ Start output:
 ![image](https://github.com/user-attachments/assets/7eb3528a-cae8-48ba-9d66-e9fadfdcbeba)
 
 Test :
+The testing of the recommendation system was conducted, and the results are presented below : 
+Test 1: 
 ![image](https://github.com/user-attachments/assets/53321a07-8096-41d3-a7e0-ad055705735d)
+Test 2:
 ![image](https://github.com/user-attachments/assets/2d428018-13f2-4fc2-bfd4-99eaebdbcc13)
+Test 3:
 ![image](https://github.com/user-attachments/assets/bd84bb92-68ec-4b91-84e0-2c840475620a)
+Test 4:
 ![image](https://github.com/user-attachments/assets/f4799d5b-edfd-4f98-bb95-e8aa62bc2ad0)
+Test 5:
 ![image](https://github.com/user-attachments/assets/dc73879e-8a8b-4cc2-8a1c-ac6246849e30)
+Test 6:
 ![image](https://github.com/user-attachments/assets/2fd994d0-3eba-4a9c-a401-218347bf467c)
 
 
