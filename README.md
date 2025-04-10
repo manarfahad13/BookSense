@@ -1,5 +1,5 @@
 # Book Sense: Uncover Your Ideal Reads 
-Book Sense is an AI-powered book recommendation system that helps readers find books matching their interests. By analyzing genre, author, and user behavior using Prolog, it provides personalized and accurate book suggestions. This enhances user engagement and satisfaction by simplifying the search for enjoyable reads.
+Book Sense is an AI-powered book recommendation system that helps readers find books matching their interests. By analyzing genre, author, and user behavior using __Prolog__, it provides personalized and accurate book suggestions. This enhances user engagement and satisfaction by simplifying the search for enjoyable reads.
 
 # System Diagram
 ![image](https://github.com/user-attachments/assets/f5a88670-0f1c-41ed-8933-99891fba54c3)
